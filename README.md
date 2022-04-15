@@ -1,2 +1,2 @@
-# threejs-haunted-house
+# three.js-template
 Created with CodeSandbox
